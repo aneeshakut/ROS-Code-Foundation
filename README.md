@@ -1,4 +1,4 @@
-<h1 align="center">ROS Code Foundation Prerequisite Exam Code</h1>
+<h3 align="center">ROS Code Foundation Prerequisite Exam Code</h3>
 <hr>
 <br>
 The exam consisted of 2 parts:
