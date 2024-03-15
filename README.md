@@ -5,11 +5,11 @@ The exam consisted of 2 parts:
 <br>
 <b>1)Linux Exam</b>
 <br>
-  Topics:Linux filesystem , Bash Scripts , Processes , SSH , Permissions , etc.
+Topics: Linux filesystem , Bash Scripts , Processes , SSH , Permissions , etc.
 <br>
 <b>2)Python Exam</b>
 <br>
-  Topics:Python 3 , Conditional Statements , Loops , Methods , Classes , Object Oriented Programming
+Topics: Python 3 , Conditional Statements , Loops , Methods , Classes , Object Oriented Programming
 <br>
 <br>
 <b>Certification Details:</b>
